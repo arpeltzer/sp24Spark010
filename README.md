@@ -3,4 +3,4 @@
 
 ### materials-sp24
 
-Public Repo for Spark 010 Spring 2024 Materials
+Public Repositoy holding all content for Spark 010, Spring 2024 @ UC Merced.
